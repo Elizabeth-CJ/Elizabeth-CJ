@@ -5,7 +5,7 @@
 I am awesome
 
 ### Examples Of Work
-Data Cleaning
+[US Household Income EDA](https://github.com/Elizabeth-CJ/US-Household-Income)
 
 ### Skills
 
