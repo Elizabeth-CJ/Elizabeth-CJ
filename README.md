@@ -7,4 +7,7 @@ I am awesome
 ### Examples Of Work
 Data Cleaning
 
+### Skills
+
+
 ### Work Experience
