@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Elizabeth-CJ/Elizabeth-CJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### About Me
+I am awesome
 
 ### Examples Of Work
 Data Cleaning
