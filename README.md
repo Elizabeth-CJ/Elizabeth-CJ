@@ -14,14 +14,6 @@ I'm an experienced People Operations professional with expertise in HR operation
 
 
 
-
-
-| Strategic project management leadership | Strong analytical and reporting skills | Strategic project management leadership | Strong analytical and reporting skills | 
-|     :---:      |     :---:     |     :---:     |     :---:     |
-| Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams. | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning. | Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams. | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning. |
-
-
-
 | Skills Overview |___________ | 
 | :---         |     :---     | 
 |  **Strategic project management leadership**  | **Strong analytical and reporting skills**     | 
@@ -34,7 +26,7 @@ I'm an experienced People Operations professional with expertise in HR operation
 
 ### Projects
 
-![image](HRDashboard)
+![image](HRDashboard.png)
 
 one list discreption
 
@@ -42,9 +34,9 @@ one list discreption
 
 
 
-| HR Performance Dashboard | Skills Overview | Skills Overview |
+| [HR Performance Dashboard](https://github.com/Elizabeth-CJ/US-Household-Income) | Skills Overview | Skills Overview |
 |    :---:     |     :---:      |     :---:     |
-| ![image](HRDashboard)   | git status     | git status    |
-| [Read](https://github.com/Elizabeth-CJ/US-Household-Income)     | git diff       | git diff      |
+| ![image](HRDashboard.png)   |  ![image](HRDashboard.png)     |  ![image](HRDashboard.png)    |
+| This project analyzes US household income data using MySQL for data cleaning, transformation, and exploration.    | This project analyzes US household income data using MySQL for data cleaning, transformation, and exploration       | git diff      |
 
 ### Work Experience
