@@ -1,13 +1,50 @@
 ## Hi there 👋
 
+I'm an experienced People Operations professional with expertise in HR operations, systems implementation, and process optimization. I thrive at the intersection of operations and technology, building scalable solutions that enhance efficiency, strengthen processes, and elevate the employee experience.
 
-### About Me
-I am awesome
+### Skills Overview
 
-### Examples Of Work
-[US Household Income EDA](https://github.com/Elizabeth-CJ/US-Household-Income)
+🔸**Strategic project management leadership demonstrated** through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams.
 
-### Skills
+🔸**Strong analytical and reporting skills** shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning.
 
+🔸**Innovative process improvement mindset** applied to redesigning onboarding and HR workflows that not only reduced onboarding time but also standardized processes, creating scalable systems across the organization.
+
+🔸**Effective collaborator** skilled at building trust and aligning HR, Finance, and IT to drive cross-functional initiatives that strengthen connection and consistency across the organization.
+
+
+
+
+
+| Strategic project management leadership | Strong analytical and reporting skills | Strategic project management leadership | Strong analytical and reporting skills | 
+|     :---:      |     :---:     |     :---:     |     :---:     |
+| Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams. | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning. | Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams. | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning. |
+
+
+
+| Skills Overview |___________ | 
+| :---         |     :---     | 
+|  **Strategic project management leadership**  | **Strong analytical and reporting skills**     | 
+| Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams.     | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning.       | 
+|**Innovative process improvement mindset**|	**Effective collaborator**|
+|Applied to redesigning onboarding and HR workflows that not only reduced onboarding time but also standardized processes, creating scalable systems across the organization. | Skilled at building trust and aligning HR, Finance, and IT to drive cross-functional initiatives that strengthen connection and consistency across the organization. |
+
+
+
+
+### Projects
+
+![image](HRDashboard)
+
+one list discreption
+
+[Read](https://github.com/Elizabeth-CJ/US-Household-Income)
+
+
+
+| HR Performance Dashboard | Skills Overview | Skills Overview |
+|    :---:     |     :---:      |     :---:     |
+| ![image](HRDashboard)   | git status     | git status    |
+| [Read](https://github.com/Elizabeth-CJ/US-Household-Income)     | git diff       | git diff      |
 
 ### Work Experience
