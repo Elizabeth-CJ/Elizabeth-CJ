@@ -30,7 +30,7 @@ I'm an experienced People Operations professional with expertise in HR operation
 
 | [HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard) | [US Household Income Data Analysis](https://github.com/Elizabeth-CJ/US-Household-Income) | Skills Overview |
 |    :---:     |     :---:      |     :---:     |
-| ![image](HRDashboard.png)   |  ![image](USHouseholdThumbnail.png)     |  ![image](HRDashboard.png)    |
+| ![image](HRDashboard.png)   |  <img src="USHouseholdThumbnail.png" alt="USHouseholdThumbnailsmall" width="400" height="300">  |  ![image](HRDashboard.png)    |
 | This project is an exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns.    | This project analyzes US household income data using MySQL for data cleaning, transformation, and exploration       | git diff      |
 
 ### Work Experience
