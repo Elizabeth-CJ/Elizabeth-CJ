@@ -14,15 +14,6 @@ I'm an experienced People Operations professional with expertise in HR operation
 
 
 
-| Skills Overview |.| 
-| :---         |     :-------------------     | 
-|  **Strategic project management leadership**  | **Strong analytical and reporting skills**     | 
-| Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams.     | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning.       | 
-|**Innovative process improvement mindset**|	**Effective collaborator**|
-|Applied to redesigning onboarding and HR workflows that not only reduced onboarding time but also standardized processes, creating scalable systems across the organization. | Skilled at building trust and aligning HR, Finance, and IT to drive cross-functional initiatives that strengthen connection and consistency across the organization. |
-
-
-
 
 ### Projects
 
