@@ -2,8 +2,4 @@ title: Elizabeth Castellon
 #description: Minima is a theme for GitHub Pages.
 #show_downloads: true
 #google_analytics:
-remote_theme: "jekyll/minima@1e8a445"
-
-
-nav_pages:
-    - about.md
+theme: jekyll-theme-minima
