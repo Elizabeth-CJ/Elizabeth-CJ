@@ -28,9 +28,9 @@ I'm an experienced People Operations professional with expertise in HR operation
 
 
 
-|[HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard)| [US Household Income Data Analysis](https://github.com/Elizabeth-CJ/US-Household-Income) | [Cutomer Churn Rate Dashboard](https://public.tableau.com/shared/8QJCDPNR4?:display_count=n&:origin=viz_share_link)|
+|[HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard)| [US Household Income Data Analysis](https://github.com/Elizabeth-CJ/US-Household-Income) | [Customer Churn Rate Dashboard](https://public.tableau.com/shared/MQRGC85DG?:display_count=n&:origin=viz_share_link)|
 |    :---:     |     :---:      |     :---:     |
-| <img src="HRDashboard.png" alt="HRDashboardsmall" width="300" height="auto"> |  <img src="USHouseholdThumbnail.png" alt="USHouseholdThumbnailsmall" width="300" height="auto">  |  <img src="HRDashboard.png" alt="HRDashboardsmall" width="300" height="auto">  |
-| This project is an exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns.    | This project analyzes US household income data using MySQL for data cleaning, transformation, and exploration       | git diff      |
+| <img src="HRDashboard.png" alt="HRDashboardsmall" width="300" height="auto"> |  <img src="USHouseholdThumbnail.png" alt="USHouseholdThumbnailsmall" width="300" height="auto">  |  <img src="Telco Churn Rate Tableau.png" alt="Telco Churn Rate Tableau small" width="300" height="auto">  |
+| This project is an exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns.    | This project analyzes US household income data using MySQL for data cleaning, transformation, and exploration       |    Interactive Tableau dashboard exploring customer churn trends based on tenure, contract type, and monthly charges in the telecom industry.    |
 
-### Work Experience
+
