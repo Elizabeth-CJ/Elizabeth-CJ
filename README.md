@@ -1,36 +1,42 @@
-## Hi there 👋
+# HR Analytics Dashboard – Exploratory Data Analysis (EDA) in Excel
+## Executive Summary
+This project is an exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns. The dashboard answers critical HR questions related to workforce structure, performance-based pay, and gender pay equity.
 
-I'm an experienced People Operations professional with expertise in HR operations, systems implementation, and process optimization. I thrive at the intersection of operations and technology, building scalable solutions that enhance efficiency, strengthen processes, and elevate the employee experience.
+## Key Questions Addressed:
+- How many employees do we have, and how are they distributed by age?
+-	Do we reward performance fairly across salary bands?
+-	Is there a noticeable salary gap between male and female employees?
 
-### Skills Overview
+## Methodology:
+Built entirely in Excel, the dashboard includes:
+-	PivotTables and PivotCharts to aggregate performance by salary band
+-	Age group segmentation for distribution insights
+-	Interactive slicers (department, gender, region, manager status)
+-	KPI Cards: Avg Salary, Avg Age, Avg Tenure, % Top Performers
+-	Calculated comparisons between male/female salaries
 
-🔸**Strategic project management leadership demonstrated** through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams.
+## Skills Used:
+-	Exploratory Data Analysis (EDA)
+-	Excel Dashboard Design
+-	PivotTables & Charts
+-	KPI Development
+-	Gender Pay Analysis
+-	Data Visualization & Storytelling
+-	Business Insight Generation
 
-🔸**Strong analytical and reporting skills** shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning.
+## Results & Findings:
+-	Pay for performance exists but may be inconsistently applied across genders.
+-	Top male performers earn significantly higher salaries than bottom male performers. This trend that is less pronounced among female employees
+-	The age distribution leans towards a mature workforce, highlighting a potential need for retirement planning, succession management and generational talent strategies.
+-	There is a measurable gender pay gap of approximately 10.7%, with female employees earning less on average than their male counterparts. This warrants a deeper root-cause analysis.
 
-🔸**Innovative process improvement mindset** applied to redesigning onboarding and HR workflows that not only reduced onboarding time but also standardized processes, creating scalable systems across the organization.
-
-🔸**Effective collaborator** skilled at building trust and aligning HR, Finance, and IT to drive cross-functional initiatives that strengthen connection and consistency across the organization.
-
-
-
-| Skills Overview |___________ | 
-| :---         |     :---     | 
-|  **Strategic project management leadership**  | **Strong analytical and reporting skills**     | 
-| Demonstrated through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams.     | Shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning.       | 
-|**Innovative process improvement mindset**|	**Effective collaborator**|
-|Applied to redesigning onboarding and HR workflows that not only reduced onboarding time but also standardized processes, creating scalable systems across the organization. | Skilled at building trust and aligning HR, Finance, and IT to drive cross-functional initiatives that strengthen connection and consistency across the organization. |
-
-
-
-
-### Projects
+## Recommendations:
+-	Conduct a department-level pay gap analysis to identify whether discrepancies are localized or systemic.
+-	Review performance-based bonus and salary increase structures for gender parity.
+-	Use these insights to inform promotion, recognition, and retention strategies.
 
 
-
-|[HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard)| [US Household Income Data Analysis](https://github.com/Elizabeth-CJ/US-Household-Income) | [Cutomer Churn Rate Dashboard](https://public.tableau.com/shared/8QJCDPNR4?:display_count=n&:origin=viz_share_link)|
-|    :---:     |     :---:      |     :---:     |
-| <img src="HRDashboard.png" alt="HRDashboardsmall" width="300" height="auto"> |  <img src="USHouseholdThumbnail.png" alt="USHouseholdThumbnailsmall" width="300" height="auto">  |  <img src="HRDashboard.png" alt="HRDashboardsmall" width="300" height="auto">  |
-| This project is an exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns.    | This project analyzes US household income data using MySQL for data cleaning, transformation, and exploration       | git diff      |
-
-### Work Experience
+## Next Steps
+-	Add time-series data to track trends in compensation, hiring, and attrition over time.
+-	Integrate a deeper pay gap analysis using regression or statistical testing.
+-	Incorporate attrition data to understand how performance and pay impact employee turnover.
