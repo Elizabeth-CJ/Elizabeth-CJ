@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm an experienced People Operations professional with expertise in HR operations, systems implementation, and process optimization. I thrive at the intersection of operations and technology, building scalable solutions that enhance efficiency, strengthen processes, and elevate the employee experience.
-
-
+I'm an experienced People Operations and Systems professional with expertise in managing HRIS platforms, supporting system integrations, and optimizing end-to-end employee lifecycle processes. Skilled at building scalable workflows, improving data accuracy, surfacing meaningful workforce insights, and driving efficiency across growing organizations.
 
 ## Skills Overview
 
