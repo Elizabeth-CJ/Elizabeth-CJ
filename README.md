@@ -1,19 +1,10 @@
-# Hi there 👋
+## About Me
 
-I'm an experienced People Operations and Systems professional with expertise in managing HRIS platforms, supporting system integrations, and optimizing end-to-end employee lifecycle processes. Skilled at building scalable workflows, improving data accuracy, surfacing meaningful workforce insights, and driving efficiency across growing organizations.
-
-## Skills Overview
-
-🔸**Strategic project management leadership demonstrated** through company-wide HR system rollouts and process automation initiatives, overseeing timelines, stakeholder alignment, and execution to simplify workflows, build practical systems, and strengthen collaboration across teams.
-
-🔸**Strong analytical and reporting skills** shown through the creation of dashboards and workforce metrics that provide leadership with clear insights for data-driven decision-making and organizational planning.
-
-🔸**Innovative process improvement mindset** applied to redesigning onboarding and HR workflows that not only reduced onboarding time but also standardized processes, creating scalable systems across the organization.
-
-🔸**Effective collaborator** skilled at building trust and aligning HR, Finance, and IT to drive cross-functional initiatives that strengthen connection and consistency across the organization.
+People Operations and HRIS professional with hands-on experience in Workday HCM, BambooHR, and Workable. I specialize in system configuration, employee lifecycle workflows, and workforce reporting that helps teams make faster, better-informed decisions.
+My project work spans HR data analysis, workforce reporting, and compensation analysis using Power BI, Tableau, Excel, and SQL.
 <br>
 <br>
-
+___
 
 
 ## Projects
